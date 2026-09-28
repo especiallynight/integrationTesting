@@ -1,0 +1,2 @@
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Stop: 1 : Завершение GetTasks. Время: 0 мс

@@ -1,0 +1,68 @@
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Stop: 1 : Завершение CreateTask. Время: 40 мс
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Stop: 1 : Завершение CreateTask. Время: 50 мс
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Stop: 1 : Завершение GetTasks. Время: 7 мс
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Stop: 1 : Завершение CreateTask. Время: 39 мс
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Stop: 1 : Завершение GetTasks. Время: 7 мс
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Stop: 1 : Завершение CreateTask. Время: 41 мс
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Stop: 1 : Завершение GetTasks. Время: 7 мс
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Stop: 1 : Завершение GetTasks. Время: 0 мс
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Stop: 1 : Завершение GetTasks. Время: 0 мс
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Stop: 1 : Завершение GetTasks. Время: 0 мс
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Stop: 1 : Завершение CreateTask. Время: 40 мс
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Stop: 1 : Завершение GetTasks. Время: 8 мс
+TaskManagerTrace Start: 0 : Начало UpdateTask
+TaskManagerTrace Stop: 1 : Завершение UpdateTask. Время: 9 мс
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Stop: 1 : Завершение CreateTask. Время: 40 мс
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Stop: 1 : Завершение GetTasks. Время: 7 мс
+TaskManagerTrace Start: 0 : Начало UpdateTask
+TaskManagerTrace Warning: 1 : Попытка обновить несуществующую задачу
+TaskManagerTrace Start: 0 : Начало UpdateTask
+TaskManagerTrace Stop: 1 : Завершение UpdateTask. Время: 3 мс
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Stop: 1 : Завершение CreateTask. Время: 40 мс
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Stop: 1 : Завершение CreateTask. Время: 0 мс
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Stop: 1 : Завершение GetTasks. Время: 7 мс
+TaskManagerTrace Start: 0 : Начало UpdateTask
+TaskManagerTrace Warning: 1 : Попытка обновить несуществующую задачу
+TaskManagerTrace Start: 0 : Начало UpdateTask
+TaskManagerTrace Stop: 1 : Завершение UpdateTask. Время: 3 мс
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Stop: 1 : Завершение CreateTask. Время: 64 мс
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Stop: 1 : Завершение GetTasks. Время: 7 мс
+TaskManagerTrace Start: 0 : Начало UpdateTask
+TaskManagerTrace Warning: 1 : Попытка обновить несуществующую задачу
+TaskManagerTrace Start: 0 : Начало UpdateTask
+TaskManagerTrace Stop: 1 : Завершение UpdateTask. Время: 2 мс
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Stop: 1 : Завершение CreateTask. Время: 68 мс
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Start: 0 : Начало DeleteTask
+TaskManagerTrace Warning: 2 : Попытка удалить несуществующую задачу
+TaskManagerTrace Start: 0 : Начало DeleteTask
+TaskManagerTrace Stop: 2 : Завершение DeleteTask. Время: 6 мс
+TaskManagerTrace Start: 0 : Начало GetArchivedTasks
+TaskManagerTrace Stop: 2 : Завершение GetArchivedTasks. Время: 10 мс
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Stop: 1 : Завершение GetTasks. Время: 3 мс
+TaskManagerTrace Start: 0 : Начало UpdateTask
+TaskManagerTrace Warning: 1 : Попытка обновить несуществующую задачу
+TaskManagerTrace Start: 0 : Начало UpdateTask
+TaskManagerTrace Stop: 1 : Завершение UpdateTask. Время: 2 мс

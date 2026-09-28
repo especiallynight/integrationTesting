@@ -1,0 +1,4 @@
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Stop: 1 : Завершение GetTasks. Время: 8 мс
+TaskManagerTrace Start: 0 : Начало UpdateTask
+TaskManagerTrace Stop: 1 : Завершение UpdateTask. Время: 9 мс

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="IntegrationTests/IntegrationTests.csproj" Id="cb578894-732d-44c5-aa50-f96f62d4ab5c" />
+  <Project Path="Task Management/Task Management.csproj" />
+</Solution>

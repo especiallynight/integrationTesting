@@ -1,0 +1,79 @@
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Stop: 1 : Завершение CreateTask. Время: 4 мс
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Stop: 1 : Завершение CreateTask. Время: 16 мс
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Stop: 1 : Завершение GetTasks. Время: 162 мс
+TaskManagerTrace Start: 0 : Начало DeleteTask
+TaskManagerTrace Stop: 2 : Завершение DeleteTask. Время: 8 мс
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Stop: 1 : Завершение GetTasks. Время: 0 мс
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Stop: 1 : Завершение GetTasks. Время: 0 мс
+TaskManagerTrace Start: 0 : Начало UpdateTask
+TaskManagerTrace Stop: 1 : Завершение UpdateTask. Время: 3 мс
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Stop: 1 : Завершение GetTasks. Время: 0 мс
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Stop: 1 : Завершение GetTasks. Время: 0 мс
+TaskManagerTrace Start: 0 : Начало UpdateTask
+TaskManagerTrace Stop: 1 : Завершение UpdateTask. Время: 1 мс
+TaskManagerTrace Start: 0 : Начало ArchiveTasks
+TaskManagerTrace Stop: 2 : Завершение ArchiveTasks. Время: 204 мс
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Stop: 1 : Завершение GetTasks. Время: 0 мс
+TaskManagerTrace Start: 0 : Начало GetArchivedTasks
+TaskManagerTrace Stop: 2 : Завершение GetArchivedTasks. Время: 0 мс
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Stop: 1 : Завершение GetTasks. Время: 0 мс
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Error: 3 : Ошибка в GetTasks: Failed to connect to 51.250.73.208:5432
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Error: 3 : Ошибка в GetTasks: Этот хост неизвестен.
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Error: 3 : Ошибка в GetTasks: Этот хост неизвестен.
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Error: 3 : Ошибка в GetTasks: Этот хост неизвестен.
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Error: 3 : Ошибка в GetTasks: An exception has been raised that is likely due to a transient failure.
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Error: 3 : Ошибка в CreateTask: An exception has been raised that is likely due to a transient failure.
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Error: 3 : Ошибка в GetTasks: The ConnectionString property has not been initialized.
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Error: 3 : Ошибка в CreateTask: The ConnectionString property has not been initialized.
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Error: 3 : Ошибка в GetTasks: The ConnectionString property has not been initialized.
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Error: 3 : Ошибка в CreateTask: The ConnectionString property has not been initialized.
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Error: 3 : Ошибка в GetTasks: 3D000: ���� ������ "TaskDb" �� ����������
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Error: 3 : Ошибка в CreateTask: 3D000: ���� ������ "TaskDb" �� ����������
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Error: 3 : Ошибка в GetTasks: 42P01: отношение "CurrentTasks" не существует
+
+POSITION: 161
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Error: 3 : Ошибка в CreateTask: An error occurred while saving the entity changes. See the inner exception for details.
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Warning: 1 : Попытка получить пустой список задач
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Stop: 1 : Завершение CreateTask. Время: 155 мс
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Stop: 1 : Завершение GetTasks. Время: 61 мс
+TaskManagerTrace Start: 0 : Начало CreateTask
+TaskManagerTrace Stop: 1 : Завершение CreateTask. Время: 16 мс
+TaskManagerTrace Start: 0 : Начало GetTasks
+TaskManagerTrace Stop: 1 : Завершение GetTasks. Время: 10 мс
