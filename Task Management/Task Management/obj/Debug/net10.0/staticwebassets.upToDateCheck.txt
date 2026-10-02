@@ -61,7 +61,6 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-E:\Study_4\интеграционное тестирование\Task Management\Task Management\Task Management\wwwroot\lib\jquery\LICENSE.txt
 E:\Study_4\интеграционное тестирование\Task Management\Task Management\Task Management\wwwroot\css\site.css
 E:\Study_4\интеграционное тестирование\Task Management\Task Management\Task Management\wwwroot\favicon.ico
 E:\Study_4\интеграционное тестирование\Task Management\Task Management\Task Management\wwwroot\js\site.js
@@ -123,3 +122,4 @@ E:\Study_4\интеграционное тестирование\Task Management
 E:\Study_4\интеграционное тестирование\Task Management\Task Management\Task Management\wwwroot\lib\jquery\dist\jquery.slim.js
 E:\Study_4\интеграционное тестирование\Task Management\Task Management\Task Management\wwwroot\lib\jquery\dist\jquery.slim.min.js
 E:\Study_4\интеграционное тестирование\Task Management\Task Management\Task Management\wwwroot\lib\jquery\dist\jquery.slim.min.map
+E:\Study_4\интеграционное тестирование\Task Management\Task Management\Task Management\wwwroot\lib\jquery\LICENSE.txt

@@ -593,3 +593,4 @@ E:\Study_4\интеграционное тестирование\Task Management
 E:\Study_4\интеграционное тестирование\Task Management\Task Management\Task Management\obj\Debug\net10.0\ref\Task Management.dll
 E:\Study_4\интеграционное тестирование\Task Management\Task Management\Task Management\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 E:\Study_4\интеграционное тестирование\Task Management\Task Management\Task Management\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Study_4\интеграционное тестирование\Task Management\Task Management\Task Management\obj\Debug\net10.0\Task Management.sourcelink.json
