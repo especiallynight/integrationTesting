@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\integrationtests\\bottomuptesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|solutionrelative:integrationtests\\bottomuptesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\integrationtests\\topdowntesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|solutionrelative:integrationtests\\topdowntesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\integrationtests\\apicontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|solutionrelative:integrationtests\\apicontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\integrationtests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|solutionrelative:integrationtests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\integrationtests\\apicontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|solutionrelative:integrationtests\\apicontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\task management\\models\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|solutionrelative:task management\\models\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\task management\\models\\currenttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|solutionrelative:task management\\models\\currenttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\task management\\models\\archivedtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|solutionrelative:task management\\models\\archivedtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\task management\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|solutionrelative:task management\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\task management\\models\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|solutionrelative:task management\\models\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\task management\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,24 +55,8 @@
       "RelativeMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|solutionrelative:integrationtests\\integrationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\task management\\models\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|solutionrelative:task management\\models\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\task management\\models\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|solutionrelative:task management\\models\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\task management\\models\\archivedtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|solutionrelative:task management\\models\\archivedtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\task management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|solutionrelative:task management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\task management\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|solutionrelative:task management\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\task management\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -95,10 +103,6 @@
       "RelativeMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|solutionrelative:task management\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\task management\\models\\currenttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|solutionrelative:task management\\models\\currenttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\task management\\models\\reportdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|solutionrelative:task management\\models\\reportdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -123,19 +127,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BottomUpTesting.cs",
+              "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\IntegrationTests\\BottomUpTesting.cs",
+              "RelativeDocumentMoniker": "IntegrationTests\\BottomUpTesting.cs",
+              "ToolTip": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\IntegrationTests\\BottomUpTesting.cs",
+              "RelativeToolTip": "IntegrationTests\\BottomUpTesting.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwGsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T09:39:58.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TopDownTesting.cs",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\IntegrationTests\\TopDownTesting.cs",
               "RelativeDocumentMoniker": "IntegrationTests\\TopDownTesting.cs",
               "ToolTip": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\IntegrationTests\\TopDownTesting.cs",
               "RelativeToolTip": "IntegrationTests\\TopDownTesting.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAQwGMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwG8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-02T17:22:54.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "IntegrationTests.csproj",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\IntegrationTests\\IntegrationTests.csproj",
               "RelativeDocumentMoniker": "IntegrationTests\\IntegrationTests.csproj",
@@ -147,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CustomWebApplicationFactory.cs",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\IntegrationTests\\CustomWebApplicationFactory.cs",
               "RelativeDocumentMoniker": "IntegrationTests\\CustomWebApplicationFactory.cs",
@@ -155,8 +172,7 @@
               "RelativeToolTip": "IntegrationTests\\CustomWebApplicationFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T19:20:31.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-27T19:20:31.79Z"
             },
             {
               "$type": "Document",
@@ -166,10 +182,9 @@
               "RelativeDocumentMoniker": "IntegrationTests\\ApiControllerTests.cs",
               "ToolTip": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\IntegrationTests\\ApiControllerTests.cs",
               "RelativeToolTip": "IntegrationTests\\ApiControllerTests.cs",
-              "ViewState": "AgIAALAAAAAAAAAAAAAAwN0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAALYAAAAAAAAAAAAAwN0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T18:56:41.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-27T18:56:41.49Z"
             },
             {
               "$type": "Document",
@@ -185,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "ArchivedTask.cs",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\Models\\ArchivedTask.cs",
               "RelativeDocumentMoniker": "Task Management\\Models\\ArchivedTask.cs",
@@ -197,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "bootstrap.bundle.js.map",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
               "RelativeDocumentMoniker": "Task Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
@@ -209,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\Views\\Report\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Task Management\\Views\\Report\\Index.cshtml.cs",
@@ -221,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\Views\\Report\\Index.cshtml",
               "RelativeDocumentMoniker": "Task Management\\Views\\Report\\Index.cshtml",
@@ -233,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "site.css",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Task Management\\wwwroot\\css\\site.css",
@@ -245,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "CurrentTasks.cshtml",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\Views\\Home\\CurrentTasks.cshtml",
               "RelativeDocumentMoniker": "Task Management\\Views\\Home\\CurrentTasks.cshtml",
@@ -257,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Archive.cshtml",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\Views\\Home\\Archive.cshtml",
               "RelativeDocumentMoniker": "Task Management\\Views\\Home\\Archive.cshtml",
@@ -269,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Task Management\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -281,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Task Management\\Views\\Shared\\_Layout.cshtml",
@@ -293,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Task Management\\Views\\_ViewImports.cshtml",
@@ -305,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Task Management\\Views\\_ViewStart.cshtml",
@@ -317,31 +332,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 5,
               "Title": "CurrentTask.cs",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\Models\\CurrentTask.cs",
               "RelativeDocumentMoniker": "Task Management\\Models\\CurrentTask.cs",
               "ToolTip": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\Models\\CurrentTask.cs",
               "RelativeToolTip": "Task Management\\Models\\CurrentTask.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-27T17:43:25.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "TaskStatus.cs",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\Models\\TaskStatus.cs",
               "RelativeDocumentMoniker": "Task Management\\Models\\TaskStatus.cs",
               "ToolTip": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\Models\\TaskStatus.cs",
               "RelativeToolTip": "Task Management\\Models\\TaskStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-27T17:42:38.428Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "ReportController.cs",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\Controllers\\ReportController.cs",
               "RelativeDocumentMoniker": "Task Management\\Controllers\\ReportController.cs",
@@ -353,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "ExcelExportService.cs",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\Services\\ExcelExportService.cs",
               "RelativeDocumentMoniker": "Task Management\\Services\\ExcelExportService.cs",
@@ -365,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "DBContext.cs",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\Data\\DBContext.cs",
               "RelativeDocumentMoniker": "Task Management\\Data\\DBContext.cs",
@@ -377,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "ReportService.cs",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\Services\\ReportService.cs",
               "RelativeDocumentMoniker": "Task Management\\Services\\ReportService.cs",
@@ -389,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Task Management.csproj",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\Task Management.csproj",
               "RelativeDocumentMoniker": "Task Management\\Task Management.csproj",
@@ -401,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "ReportDtos.cs",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\Models\\ReportDtos.cs",
               "RelativeDocumentMoniker": "Task Management\\Models\\ReportDtos.cs",
@@ -413,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\appsettings.json",
               "RelativeDocumentMoniker": "Task Management\\appsettings.json",
@@ -425,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\Program.cs",
               "RelativeDocumentMoniker": "Task Management\\Program.cs",
@@ -437,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "ApiController.cs",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\Task Management\\Controllers\\ApiController.cs",
               "RelativeDocumentMoniker": "Task Management\\Controllers\\ApiController.cs",

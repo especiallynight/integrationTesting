@@ -38,7 +38,7 @@ namespace IntegrationTests
             _factory?.Dispose();
         }
 
-        // ШАГ 1: Тестируем Контроллер + Заглушка Контекста БД
+        //1. Тестируем Контроллер + Заглушка Контекста БД
         [Test]
         public async Task CreateTask_ControllerValidation()
         {
@@ -53,7 +53,7 @@ namespace IntegrationTests
 
             var invalidTask = new CurrentTask
             {
-                task_name = "", 
+                task_name = "",
                 statusid = 1,
                 priorityid = 1
             };
@@ -65,7 +65,7 @@ namespace IntegrationTests
             Assert.That(badRequest.StatusCode, Is.EqualTo(400));
         }
 
-        // ШАГ 2: Тестируем Контроллер с реальной In-Memory БД
+        // 2. Тестируем Контроллер с реальной In-Memory БД
         [Test]
         public async Task Step2_GetTasks()
         {
@@ -99,7 +99,7 @@ namespace IntegrationTests
             Assert.That(tasks[0].task_name, Is.EqualTo("Тестовая задача Step 2"));
         }
 
-        // ШАГ 3: Тестируем сквозную интеграцию (Все слои + In-Memory БД)
+        // 3. Тестируем сквозную интеграцию через HTTP (Все слои + In-Memory БД)
         [Test]
         public async Task Step3_CreateAndGetTask()
         {

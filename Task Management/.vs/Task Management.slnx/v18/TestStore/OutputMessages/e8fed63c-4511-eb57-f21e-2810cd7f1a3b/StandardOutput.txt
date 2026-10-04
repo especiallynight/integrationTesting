@@ -1,0 +1,40 @@
+[15:28:23 DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+[15:28:23 DBG] Hosting starting
+[15:28:23 INF] User profile is available. Using 'C:\Users\degty\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[15:28:23 DBG] Reading data from file 'C:\Users\degty\AppData\Local\ASP.NET\DataProtection-Keys\key-262f72c5-ad6c-4cdb-a8e7-31df4fb2c175.xml'.
+[15:28:23 DBG] Reading data from file 'C:\Users\degty\AppData\Local\ASP.NET\DataProtection-Keys\key-cd9b0670-f967-4435-9bee-ffed2a293ad0.xml'.
+[15:28:23 DBG] Reading data from file 'C:\Users\degty\AppData\Local\ASP.NET\DataProtection-Keys\key-d447e10e-f8e6-44b3-a4f8-dec61b6bdc55.xml'.
+[15:28:23 DBG] Found key {262f72c5-ad6c-4cdb-a8e7-31df4fb2c175}.
+[15:28:23 DBG] Found key {cd9b0670-f967-4435-9bee-ffed2a293ad0}.
+[15:28:23 DBG] Found key {d447e10e-f8e6-44b3-a4f8-dec61b6bdc55}.
+[15:28:23 DBG] Considering key {262f72c5-ad6c-4cdb-a8e7-31df4fb2c175} with expiration date 2026-12-21 12:37:38Z as default key.
+[15:28:23 DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=10.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[15:28:23 DBG] Decrypting secret element using Windows DPAPI.
+[15:28:23 DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=10.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[15:28:23 DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+[15:28:23 DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+[15:28:23 DBG] Using key {262f72c5-ad6c-4cdb-a8e7-31df4fb2c175} as the default key.
+[15:28:23 DBG] Key ring with default key {262f72c5-ad6c-4cdb-a8e7-31df4fb2c175} was loaded during application startup.
+[15:28:23 DBG] Middleware configuration started with options: {AllowedHosts = *, AllowEmptyHosts = True, IncludeFailureMessage = True}
+[15:28:23 DBG] Wildcard detected, all requests with hosts will be allowed.
+[15:28:23 DBG] Loaded hosting startup assembly Task Management
+[15:28:23 INF] Application started. Press Ctrl+C to shut down.
+[15:28:23 INF] Hosting environment: Testing
+[15:28:23 INF] Content root path: E:\Study_4\интеграционное тестирование\Task Management\Task Management\Task Management
+[15:28:23 DBG] Hosting started
+[15:28:23 DBG] Entity Framework Core 10.0.12 initialized 'TaskManagementDbContext' using provider 'Microsoft.EntityFrameworkCore.InMemory:10.0.12' with options: StoreName=TestTaskDb 
+[15:28:23 DBG] 'TaskManagementDbContext' disposed.
+[15:28:23 DBG] Entity Framework Core 10.0.12 initialized 'TaskManagementDbContext' using provider 'Microsoft.EntityFrameworkCore.InMemory:10.0.12' with options: StoreName=TestTaskDb 
+[15:28:23 DBG] Context 'TaskManagementDbContext' started tracking 'ArchivedTask' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+[15:28:23 DBG] SaveChanges starting for 'TaskManagementDbContext'.
+[15:28:23 DBG] DetectChanges starting for 'TaskManagementDbContext'.
+[15:28:23 DBG] DetectChanges completed for 'TaskManagementDbContext'.
+[15:28:23 INF] Saved 1 entities to in-memory store.
+[15:28:23 DBG] An entity of type 'ArchivedTask' tracked by 'TaskManagementDbContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+[15:28:23 DBG] SaveChanges completed for 'TaskManagementDbContext' with 1 entities written to the database.
+[15:28:23 DBG] 'TaskManagementDbContext' disposed.
+[15:28:23 DBG] Hosting stopping
+[15:28:23 INF] Application is shutting down...
+[15:28:23 DBG] Hosting stopped
+[15:28:23 DBG] Hosting stopping
+[15:28:23 DBG] Hosting stopped
