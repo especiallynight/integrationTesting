@@ -65,8 +65,8 @@ namespace IntegrationTests
             Assert.That(savedTask, Is.Not.Null);
             Assert.That(savedTask.task_description, Is.EqualTo("Тестируем слой работы с данными напрямую"));
         }
-        
-        
+
+
         // 2. Интегрируем Контроллер поверх проверенной БД 
         [Test]
         public async Task Step2_ControllerWithRealDbContext()
@@ -101,8 +101,8 @@ namespace IntegrationTests
             Assert.That(tasks.Count, Is.EqualTo(1));
             Assert.That(tasks[0].task_name, Is.EqualTo("Задача Среднего Уровня"));
         }
-        
-        
+
+
         // 3. Тестируем сквозную интеграцию через HTTP (Все слои + In-Memory БД)
         [Test]
         public async Task Step3_CreateAndGetTask()

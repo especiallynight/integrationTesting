@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\integrationtests\\topdowntesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|solutionrelative:integrationtests\\topdowntesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\integrationtests\\bottomuptesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|solutionrelative:integrationtests\\bottomuptesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\integrationtests\\topdowntesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|solutionrelative:integrationtests\\topdowntesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\integrationtests\\apicontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -122,30 +122,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BottomUpTesting.cs",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\IntegrationTests\\BottomUpTesting.cs",
               "RelativeDocumentMoniker": "IntegrationTests\\BottomUpTesting.cs",
               "ToolTip": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\IntegrationTests\\BottomUpTesting.cs",
               "RelativeToolTip": "IntegrationTests\\BottomUpTesting.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAADwv2sAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwGsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-04T09:39:58.534Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TopDownTesting.cs",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\IntegrationTests\\TopDownTesting.cs",
               "RelativeDocumentMoniker": "IntegrationTests\\TopDownTesting.cs",
               "ToolTip": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\IntegrationTests\\TopDownTesting.cs",
               "RelativeToolTip": "IntegrationTests\\TopDownTesting.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAwG8AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwG8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-02T17:22:54.099Z",
               "EditorCaption": ""
@@ -172,8 +172,7 @@
               "RelativeToolTip": "IntegrationTests\\CustomWebApplicationFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T19:20:31.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-27T19:20:31.79Z"
             },
             {
               "$type": "Document",
@@ -185,8 +184,7 @@
               "RelativeToolTip": "IntegrationTests\\ApiControllerTests.cs",
               "ViewState": "AgIAALYAAAAAAAAAAAAAwN0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T18:56:41.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-27T18:56:41.49Z"
             },
             {
               "$type": "Document",
@@ -198,8 +196,7 @@
               "RelativeToolTip": "Task Management\\Models\\TaskPriority.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T18:51:16.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-27T18:51:16.1Z"
             },
             {
               "$type": "Document",
@@ -211,8 +208,7 @@
               "RelativeToolTip": "Task Management\\Models\\ArchivedTask.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T18:51:14.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-27T18:51:14.744Z"
             },
             {
               "$type": "Document",
@@ -344,8 +340,7 @@
               "RelativeToolTip": "Task Management\\Models\\CurrentTask.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T17:43:25.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-27T17:43:25.252Z"
             },
             {
               "$type": "Document",
@@ -357,8 +352,7 @@
               "RelativeToolTip": "Task Management\\Models\\TaskStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T17:42:38.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-27T17:42:38.428Z"
             },
             {
               "$type": "Document",
@@ -394,8 +388,7 @@
               "RelativeToolTip": "Task Management\\Data\\DBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T17:34:27.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-27T17:34:27.619Z"
             },
             {
               "$type": "Document",
