@@ -122,6 +122,7 @@ namespace IntegrationTests
             var badRequest = (BadRequestObjectResult)result;
             Assert.That(badRequest.StatusCode, Is.EqualTo(400));
         }
+        
         //4. Сквозной негативный сценарий: проверка отсечения невалидного запроса на транспортном уровне HTTP API
         [Test]
         public async Task Step4_CreateTask_InvalidData()

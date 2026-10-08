@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\integrationtests\\hybridtesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|solutionrelative:integrationtests\\hybridtesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\integrationtests\\topdowntesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|solutionrelative:integrationtests\\topdowntesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\integrationtests\\hybridtesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB578894-732D-44C5-AA50-F96F62D4AB5C}|IntegrationTests\\IntegrationTests.csproj|solutionrelative:integrationtests\\hybridtesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AF73B70-109E-9C7A-BBC5-081042BA7986}|Task Management\\Task Management.csproj|e:\\study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\task management\\task management\\task management\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,17 +126,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HybridTesting.cs",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\IntegrationTests\\HybridTesting.cs",
               "RelativeDocumentMoniker": "IntegrationTests\\HybridTesting.cs",
               "ToolTip": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\IntegrationTests\\HybridTesting.cs",
               "RelativeToolTip": "IntegrationTests\\HybridTesting.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAkwIgAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwIIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-07T15:08:41.69Z",
               "EditorCaption": ""
@@ -151,18 +151,17 @@
               "RelativeToolTip": "IntegrationTests\\BottomUpTesting.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T09:39:58.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T09:39:58.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TopDownTesting.cs",
               "DocumentMoniker": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\IntegrationTests\\TopDownTesting.cs",
               "RelativeDocumentMoniker": "IntegrationTests\\TopDownTesting.cs",
               "ToolTip": "E:\\Study_4\\\u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Task Management\\Task Management\\IntegrationTests\\TopDownTesting.cs",
               "RelativeToolTip": "IntegrationTests\\TopDownTesting.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAwHsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAwHkAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-02T17:22:54.099Z",
               "EditorCaption": ""
@@ -189,8 +188,7 @@
               "RelativeToolTip": "IntegrationTests\\CustomWebApplicationFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T19:20:31.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-27T19:20:31.79Z"
             },
             {
               "$type": "Document",
@@ -202,8 +200,7 @@
               "RelativeToolTip": "IntegrationTests\\ApiControllerTests.cs",
               "ViewState": "AgIAALYAAAAAAAAAAAAAwN0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T18:56:41.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-27T18:56:41.49Z"
             },
             {
               "$type": "Document",
@@ -407,8 +404,7 @@
               "RelativeToolTip": "Task Management\\Data\\DBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T17:34:27.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-27T17:34:27.619Z"
             },
             {
               "$type": "Document",
@@ -432,8 +428,7 @@
               "RelativeToolTip": "Task Management\\Task Management.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-27T17:33:20.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-27T17:33:20.521Z"
             },
             {
               "$type": "Document",

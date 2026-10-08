@@ -43,7 +43,7 @@ namespace IntegrationTests
         public async Task CreateTask_ControllerValidation()
         {
             var options = new DbContextOptionsBuilder<TaskManagementDbContext>()
-                .UseInMemoryDatabase(databaseName: "Step1_TestDb")
+                .UseInMemoryDatabase(databaseName: "Step1_TestDb_TopDown")
                 .Options;
 
             using var dbContext = new TaskManagementDbContext(options);
@@ -70,7 +70,7 @@ namespace IntegrationTests
         public async Task Step2_GetTasks()
         {
             var options = new Microsoft.EntityFrameworkCore.DbContextOptionsBuilder<TaskManagementDbContext>()
-                .UseInMemoryDatabase(databaseName: "Step2_TestDb")
+                .UseInMemoryDatabase(databaseName: "Step2_TestDb_TopDown")
                 .Options;
 
             using var context = new TaskManagementDbContext(options);
